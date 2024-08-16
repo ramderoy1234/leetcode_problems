@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0001-two-sum) |
+| [0624-maximum-distance-in-arrays](https://github.com/ramderoy1234/leetcode_problems/tree/master/0624-maximum-distance-in-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ramderoy1234/leetcode_problems/tree/master/1442-number-of-operations-to-make-network-connected) |
+## Greedy
+|  |
+| ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/ramderoy1234/leetcode_problems/tree/master/0624-maximum-distance-in-arrays) |
 <!---LeetCode Topics End-->
