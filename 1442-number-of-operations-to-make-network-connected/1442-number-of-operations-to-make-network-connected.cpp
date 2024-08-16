@@ -1,40 +1,39 @@
-#include <bits/stdc++.h>
-using namespace std;
 
 class DSU {
-    vector<int> rank, parent;
-    
+    vector<int> rank, parent;   
 public:
-    DSU(int n) {
-        rank.resize(n + 1, 0);
-        parent.resize(n + 1);
-        for (int i = 0; i <= n; i++) {
-            parent[i] = i;
-        }
-    }
+   DSU(int n){
+    rank.resize(n+1,0);
+    parent.resize(n+1);
+    for(int i=0;i<=n;i++){
+      parent[i]=i;
+     }
+   }
 
     int findparent(int node) {
-        if (node == parent[node]) {
-            return node;
-        }
-        return parent[node] = findparent(parent[node]);  // Path compression
+       if(parent[node]==node) return node;
+
+       else{
+         return parent[node]=findparent(parent[node]);
+       }
     }
 
-    void unionByRank(int u, int v) {
-        int pt_u = findparent(u);
-        int pt_v = findparent(v);
+    void unionByRank(int u, int v){
+      int p_u=findparent(u);
+      int p_v=findparent(v);
 
-        if (pt_u == pt_v) return;  // They are already in the same component
-
-        if (rank[pt_u] < rank[pt_v]) {
-            parent[pt_u] = pt_v;
-        } else if (rank[pt_u] > rank[pt_v]) {
-            parent[pt_v] = pt_u;
-        } else {
-            parent[pt_v] = pt_u;
-            rank[pt_u]++;
-        }
+      if(p_u==p_v) return ;
+      else if(parent[p_u]<parent[p_v]){
+        parent[p_u]=p_v;
+      }
+      else{
+        parent[p_v]=p_u;
+        
+        
+        rank[p_u]++;
+      }
     }
+
 };
 
 class Solution {
