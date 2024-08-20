@@ -10,10 +10,25 @@ public:
     bool canPartition(vector<int>& nums) {
       int n=nums.size();
         int sum = accumulate(nums.begin(), nums.end(), 0);
-        vector<vector<int>>dp(n+1,vector<int>(sum+1,-1));
-        if (sum % 2 != 0) return false;
         int sum_tar = sum / 2;
+        vector<vector<int>>dp(n+1,vector<int>(sum_tar+1,-1));
+        if (sum % 2 != 0) return false;
 
         return recursion(nums, sum_tar, nums.size(),dp);
+        // for(int i=0;i<=n;i++){
+        //   dp[i][0]=true;
+        // }
+
+        // for(int i=1;i<=n;i++){
+        //   for(int j=1;j<=sum_tar;j++){
+        //     if(nums[i-1]<=j){
+        //       dp[i][j]=dp[i-1][j]|| dp[i][j-nums[i-1]];
+        //     }
+        //     else{
+        //       dp[i][j]=dp[i-1][j];
+        //     }
+        //   }
+        // }
+        // return dp[n][sum_tar];
     }
 };
