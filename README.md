@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0001-two-sum) |
 | [0198-house-robber](https://github.com/ramderoy1234/leetcode_problems/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/ramderoy1234/leetcode_problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0494-target-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/ramderoy1234/leetcode_problems/tree/master/0624-maximum-distance-in-arrays) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/ramderoy1234/leetcode_problems/tree/master/0322-coin-change) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ramderoy1234/leetcode_problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Union Find
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/ramderoy1234/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/ramderoy1234/leetcode_problems/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/ramderoy1234/leetcode_problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0494-target-sum) |
 ## Memoization
