@@ -22,18 +22,31 @@ public:
       //   return true;
       //  }
       //  return false;
-      vector<vector<int>>dp(n+1,vector<int>(m+1,0));
 
-      for(int i=1;i<=n;i++){
-        for(int j=1;j<=m;j++){
-          if(s[i-1]==t[j-1]){
-            dp[i][j]=dp[i-1][j-1]+1;
-          }else{
-            dp[i][j]=max(dp[i-1][j],dp[i][j-1]);
-          }
+      // vector<vector<int>>dp(n+1,vector<int>(m+1,0));
+
+      // for(int i=1;i<=n;i++){
+      //   for(int j=1;j<=m;j++){
+      //     if(s[i-1]==t[j-1]){
+      //       dp[i][j]=dp[i-1][j-1]+1;
+      //     }else{
+      //       dp[i][j]=max(dp[i-1][j],dp[i][j-1]);
+      //     }
+      //   }
+      // }
+      // int lenght=dp[n][m];
+      // return n<=lenght?true:false;
+
+      int i=0;
+      int j=0;
+      while(i<n&& j<m){
+        if(s[i]==t[j]){
+          i++;
         }
+        j++;
       }
-      int lenght=dp[n][m];
-      return n<=lenght?true:false;
+      if(n<=i) return true;
+      return false;
+
     }
 };
