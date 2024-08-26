@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ramderoy1234/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/ramderoy1234/leetcode_problems/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/ramderoy1234/leetcode_problems/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/ramderoy1234/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/ramderoy1234/leetcode_problems/tree/master/0516-longest-palindromic-subsequence) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/ramderoy1234/leetcode_problems/tree/master/0392-is-subsequence) |
 | [2481-strictly-palindromic-number](https://github.com/ramderoy1234/leetcode_problems/tree/master/2481-strictly-palindromic-number) |
 ## Brainteaser
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/ramderoy1234/leetcode_problems/tree/master/0008-string-to-integer-atoi) |
+| [0392-is-subsequence](https://github.com/ramderoy1234/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/ramderoy1234/leetcode_problems/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/ramderoy1234/leetcode_problems/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ramderoy1234/leetcode_problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
