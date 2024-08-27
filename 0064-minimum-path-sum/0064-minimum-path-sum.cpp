@@ -4,16 +4,10 @@ class Solution {
     if(n<0 || m<0) return INT_MAX;
     if(dp[n][m]!=-1) return dp[n][m];
 
-    int left=INT_MAX,right=INT_MAX;
-
-    if(n>0){
-      left=grid[n][m] + recursion(n-1,m,grid,dp);
-    }
-    if(m>0){
-      right=grid[n][m] + recursion(n, m-1,grid,dp);
-    }
-  
-    return dp[n][m]=min(left,right);
+     int left=recursion(n-1,m,grid,dp);
+     int right=recursion(n, m-1,grid,dp);
+    
+    return dp[n][m]=grid[n][m]+min(left,right);
   }
 public:
     int minPathSum(vector<vector<int>>& grid) {
