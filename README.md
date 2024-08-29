@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0494-target-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/ramderoy1234/leetcode_problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ramderoy1234/leetcode_problems/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0967-minimum-falling-path-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0967-minimum-falling-path-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/ramderoy1234/leetcode_problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ramderoy1234/leetcode_problems/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0967-minimum-falling-path-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/ramderoy1234/leetcode_problems/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ramderoy1234/leetcode_problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Memoization
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0064-minimum-path-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0967-minimum-falling-path-sum) |
 ## Queue
 |  |
 | ------- |
