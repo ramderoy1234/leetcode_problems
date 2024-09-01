@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/ramderoy1234/leetcode_problems/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ramderoy1234/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ramderoy1234/leetcode_problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ramderoy1234/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/ramderoy1234/leetcode_problems/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ramderoy1234/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ramderoy1234/leetcode_problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
