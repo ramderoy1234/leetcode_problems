@@ -1,11 +1,11 @@
 class Solution {
-  int recursion(int n,int m, vector<vector<int>>&triangle,vector<vector<int>>&dp){
-    if(n==triangle.size()-1) return triangle[n][m];
-    if(dp[n][m]!=-1) return dp[n][m];
-    int down=recursion(n+1,m,triangle,dp);
-    int downright=recursion(n+1,m+1,triangle,dp);
-    return dp[n][m]=triangle[n][m]+min(down,downright);
-  }
+int recursion(int n,int m,vector<vector<int>>&tri,vector<vector<int>>&dp){
+  if(n==tri.size()-1) return tri[n][m];
+  if(dp[n][m]!=-1) return dp[n][m];
+  int right=recursion(n+1,m,tri,dp);
+  int down=recursion(n+1,m+1,tri,dp);
+  return dp[n][m]=tri[n][m]+min(right,down);
+}  
 public:
     int minimumTotal(vector<vector<int>>& triangle) {
         int n=triangle.size();
