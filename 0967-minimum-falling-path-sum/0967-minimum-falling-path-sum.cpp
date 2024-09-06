@@ -14,11 +14,11 @@ public:
             }
         }
 
-        int min_path = INT_MAX;
-        for (int j = 0; j < n; ++j) {
-            min_path= std::min(min_path, dp[0][j]);
-        }
+        // int min_path = INT_MAX;
+        // for (int j = 0; j < n; ++j) {
+        //     min_path= std::min(min_path, dp[0][j]);
+        // }
 
-        return min_path;
+        return *min_element(dp[0].begin(),dp[0].end());
     }
 };
