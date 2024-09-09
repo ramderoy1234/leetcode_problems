@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ramderoy1234/leetcode_problems/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/ramderoy1234/leetcode_problems/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ramderoy1234/leetcode_problems/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/ramderoy1234/leetcode_problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ramderoy1234/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ramderoy1234/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/ramderoy1234/leetcode_problems/tree/master/0008-string-to-integer-atoi) |
+| [0072-edit-distance](https://github.com/ramderoy1234/leetcode_problems/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ramderoy1234/leetcode_problems/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0392-is-subsequence](https://github.com/ramderoy1234/leetcode_problems/tree/master/0392-is-subsequence) |
