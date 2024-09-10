@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0518-coin-change-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/ramderoy1234/leetcode_problems/tree/master/0624-maximum-distance-in-arrays) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ramderoy1234/leetcode_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ramderoy1234/leetcode_problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0747-min-cost-climbing-stairs](https://github.com/ramderoy1234/leetcode_problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0967-minimum-falling-path-sum) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/ramderoy1234/leetcode_problems/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/ramderoy1234/leetcode_problems/tree/master/0624-maximum-distance-in-arrays) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ramderoy1234/leetcode_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Math
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/ramderoy1234/leetcode_problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/ramderoy1234/leetcode_problems/tree/master/0583-delete-operation-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ramderoy1234/leetcode_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ramderoy1234/leetcode_problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0747-min-cost-climbing-stairs](https://github.com/ramderoy1234/leetcode_problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0967-minimum-falling-path-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0967-minimum-falling-path-sum) |
