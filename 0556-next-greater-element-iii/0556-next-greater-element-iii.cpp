@@ -1,53 +1,45 @@
 class Solution {
 public:
     int nextGreaterElement(int n) {
-        vector<pair<int, int>> v;
-        int original_n = n;
-        
-        while (n > 0) {
-            int temp = n % 10;
-            n = n / 10;
-            v.push_back(std::make_pair(temp, 0));
-        }
-        reverse(v.begin(), v.end());
-
-        for (int i = 0; i < v.size(); i++) {
-            v[i].second = i;
-        }
-
-        int l = v.size();
-        stack<pair<int, int>> s;
-        s.push(v[l - 1]);
-
-        for (int i = v.size() - 2; i >= 0; i--) {
-            
-            if (v[i].first >= s.top().first) {
-                s.push(v[i]);
-            } else {
-                int index = s.top().second;
-                int value = s.top().first;
-                
-                while (!s.empty() && s.top().first > v[i].first) {
-                    index = s.top().second;
-                    value = s.top().first;
-                    s.pop();
-                }
-                swap(v[i], v[index]);
-                
-                sort(v.begin() + i + 1, v.end());
-                break;
+    string s = to_string(n);
+    n = s.size();
+    bool ok = 0;
+    for(int i = n - 1; i >= 0; i--){
+         for(int j = i + 1; j < n; j++){
+             if(s[j] > s[i]){
+                ok = 1;
+             }
+         }
+         if(ok){
+            char x = '~';
+            int p = -1;
+            for(int j = i + 1; j < n; j++){
+                 if(s[j] > s[i] && x > s[j]){
+                    x = s[j];
+                    p = j;
+                 }
             }
-        }
-
-        long long c = 0;
-        for (int i = 0; i < l; i++) {
-            c = c * 10 + v[i].first;
-        }
-
-        if (c > INT_MAX || c <= original_n) {
-            return -1;
-        }
-
-        return c;
+            swap(s[p], s[i]);
+            if(p < n){
+            sort(s.begin() + i + 1,s.end());
+            }
+            break;
+         }
+    }
+    if(ok ^ 1){
+         return -1;
+    }
+    long long ans = 0;
+    long long p = 1;
+    // cout << s << '\n';
+    for(int i = s.size() - 1; i >= 0; i--){
+         ans += p * 1LL * (s[i] - '0');
+         p *= 10;
+    }
+    
+    if(ans > 1LL * INT_MAX){
+         return -1;
+    }
+    return ans;
     }
 };
