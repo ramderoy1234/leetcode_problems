@@ -1,6 +1,6 @@
 class Solution {
   int recursion(int n,int m,vector<vector<int>>&grid,vector<vector<int>>&dp){
-    if(n==0 && m==0) return grid[0][0];
+    if(n==0 && m==0) return grid[n][m];
     if(n<0 || m<0) return INT_MAX;
     if(dp[n][m]!=-1) return dp[n][m];
     int left=recursion(n-1,m,grid,dp);
