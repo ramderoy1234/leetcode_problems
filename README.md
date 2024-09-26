@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/ramderoy1234/leetcode_problems/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ramderoy1234/leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/ramderoy1234/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0063-unique-paths-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/ramderoy1234/leetcode_problems/tree/master/0120-triangle) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ramderoy1234/leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/ramderoy1234/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ramderoy1234/leetcode_problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Sliding Window
 |  |
