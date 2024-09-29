@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ramderoy1234/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0451-sort-characters-by-frequency](https://github.com/ramderoy1234/leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ramderoy1234/leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
 | [0801-is-graph-bipartite](https://github.com/ramderoy1234/leetcode_problems/tree/master/0801-is-graph-bipartite) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ramderoy1234/leetcode_problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1484-linked-list-in-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/ramderoy1234/leetcode_problems/tree/master/0322-coin-change) |
 | [0801-is-graph-bipartite](https://github.com/ramderoy1234/leetcode_problems/tree/master/0801-is-graph-bipartite) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ramderoy1234/leetcode_problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1484-linked-list-in-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/1484-linked-list-in-binary-tree) |
 ## Union Find
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/ramderoy1234/leetcode_problems/tree/master/0016-3sum-closest) |
 | [0451-sort-characters-by-frequency](https://github.com/ramderoy1234/leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ramderoy1234/leetcode_problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Linked List
 |  |
@@ -228,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ramderoy1234/leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -240,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ramderoy1234/leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/1484-linked-list-in-binary-tree) |
 ## Recursion
 |  |
