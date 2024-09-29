@@ -2,8 +2,8 @@
 class Solution {
 public:
     vector<int> preorderTraversal(TreeNode* root) {
-        TreeNode*curr=root;
         vector<int>preorder;
+        TreeNode*curr=root;
         while(curr!=nullptr){
           if(curr->left==nullptr){
             preorder.push_back(curr->val);
