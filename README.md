@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ramderoy1234/leetcode_problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/ramderoy1234/leetcode_problems/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ramderoy1234/leetcode_problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0801-is-graph-bipartite](https://github.com/ramderoy1234/leetcode_problems/tree/master/0801-is-graph-bipartite) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ramderoy1234/leetcode_problems/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/ramderoy1234/leetcode_problems/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/ramderoy1234/leetcode_problems/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ramderoy1234/leetcode_problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0801-is-graph-bipartite](https://github.com/ramderoy1234/leetcode_problems/tree/master/0801-is-graph-bipartite) |
@@ -81,11 +83,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ramderoy1234/leetcode_problems/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/ramderoy1234/leetcode_problems/tree/master/0801-is-graph-bipartite) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ramderoy1234/leetcode_problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ramderoy1234/leetcode_problems/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/ramderoy1234/leetcode_problems/tree/master/0801-is-graph-bipartite) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ramderoy1234/leetcode_problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Greedy
