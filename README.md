@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ramderoy1234/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0063-unique-paths-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/ramderoy1234/leetcode_problems/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/ramderoy1234/leetcode_problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ramderoy1234/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ramderoy1234/leetcode_problems/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0494-target-sum) |
 ## Binary Search
 |  |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ramderoy1234/leetcode_problems/tree/master/0078-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ramderoy1234/leetcode_problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Bucket Sort
 |  |
