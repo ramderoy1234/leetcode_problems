@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/ramderoy1234/leetcode_problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/ramderoy1234/leetcode_problems/tree/master/0820-find-eventual-safe-states) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ramderoy1234/leetcode_problems/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/ramderoy1234/leetcode_problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Greedy
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/ramderoy1234/leetcode_problems/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ramderoy1234/leetcode_problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ramderoy1234/leetcode_problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/ramderoy1234/leetcode_problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Memoization
 |  |
 | ------- |
@@ -386,8 +388,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ramderoy1234/leetcode_problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/ramderoy1234/leetcode_problems/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/ramderoy1234/leetcode_problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ramderoy1234/leetcode_problems/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/ramderoy1234/leetcode_problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
