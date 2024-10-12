@@ -1,71 +1,58 @@
-
-class DSU {
-    vector<int> rank, parent;   
-public:
-   DSU(int n){
-    rank.resize(n+1,0);
-    parent.resize(n+1);
-    for(int i=0;i<=n;i++){
-      parent[i]=i;
-     }
-   }
-
-    int findparent(int node) {
-       if(parent[node]==node) return node;
-
-       else{
-         return parent[node]=findparent(parent[node]);
-       }
-    }
-
-    void unionByRank(int u, int v){
-      int p_u=findparent(u);
-      int p_v=findparent(v);
-
-      if(p_u==p_v) return ;
-      else if(parent[p_u]<parent[p_v]){
-        parent[p_u]=p_v;
-      }
-      else{
-        parent[p_v]=p_u;
-        
-        
-        rank[p_u]++;
-      }
-    }
-
-};
-
 class Solution {
+    vector<int> rank, parent;
 public:
-    int makeConnected(int n, vector<vector<int>>& connections) {
-        DSU ds(n);
-        int extraEdges = 0;
-
-        // Process all connections
-        for (int i = 0; i < connections.size(); i++) {
-            int u = connections[i][0];
-            int v = connections[i][1];
-            if (ds.findparent(u) == ds.findparent(v)) {
-                extraEdges++;  // This edge is extra
-            } else {
-                ds.unionByRank(u, v);  // Union the components
-            }
-        }
-
-        // Count the number of components
-        int components = 0;
+    Solution() {}
+    Solution(int n) {
+        rank.resize(n, 0);
+        parent.resize(n);
         for (int i = 0; i < n; i++) {
-            if (ds.findparent(i) == i) {
-                components++;
+            parent[i] = i; 
+        }
+    }
+    int findPar(int node) {
+        if (parent[node] == node) {
+            return node;
+        }
+        return parent[node] = findPar(parent[node]);
+    }
+    void unionByRank(int u, int v) {
+        int parU = findPar(u);
+        int parV = findPar(v);
+
+        if (parU != parV) {
+            if (rank[parU] < rank[parV]) {
+                parent[parU] = parV;
+            } else if (rank[parU] > rank[parV]) {
+                parent[parV] = parU;
+            } else {
+                parent[parV] = parU;
+                rank[parU]++;
             }
         }
-
-        // We need (components - 1) edges to connect all components
-        if (extraEdges >= components - 1) {
+    }
+    // Function to determine the minimum number of operations to make the network connected
+    int makeConnected(int n, vector<vector<int>>& connections) {
+        if (connections.size() < n - 1) {
+            return -1; 
+        }
+        // Initialize union-find
+        Solution dsu(n);
+        int components = n;
+        int redundant = 0;  
+        for (const auto& connection : connections) {
+            int u = connection[0];
+            int v = connection[1];
+            if (dsu.findPar(u) != dsu.findPar(v)) {
+                dsu.unionByRank(u, v);
+                components--; 
+            } else {
+                redundant++;  
+            }
+        }
+        if (redundant >= components - 1) {
             return components - 1;
         } else {
-            return -1;  // Not enough extra edges
+            return -1; 
         }
     }
 };
