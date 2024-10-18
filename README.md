@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ramderoy1234/leetcode_problems/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/ramderoy1234/leetcode_problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0854-making-a-large-island](https://github.com/ramderoy1234/leetcode_problems/tree/master/0854-making-a-large-island) |
+| [0907-koko-eating-bananas](https://github.com/ramderoy1234/leetcode_problems/tree/master/0907-koko-eating-bananas) |
 | [0967-minimum-falling-path-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/ramderoy1234/leetcode_problems/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ramderoy1234/leetcode_problems/tree/master/1073-number-of-enclaves) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ramderoy1234/leetcode_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ramderoy1234/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ramderoy1234/leetcode_problems/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0907-koko-eating-bananas](https://github.com/ramderoy1234/leetcode_problems/tree/master/0907-koko-eating-bananas) |
 | [1753-path-with-minimum-effort](https://github.com/ramderoy1234/leetcode_problems/tree/master/1753-path-with-minimum-effort) |
 ## Sliding Window
 |  |
