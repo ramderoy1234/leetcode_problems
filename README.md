@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/ramderoy1234/leetcode_problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ramderoy1234/leetcode_problems/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/ramderoy1234/leetcode_problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ramderoy1234/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/ramderoy1234/leetcode_problems/tree/master/0008-string-to-integer-atoi) |
 | [0044-wildcard-matching](https://github.com/ramderoy1234/leetcode_problems/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/ramderoy1234/leetcode_problems/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/ramderoy1234/leetcode_problems/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/ramderoy1234/leetcode_problems/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/ramderoy1234/leetcode_problems/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0132-palindrome-partitioning-ii) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/ramderoy1234/leetcode_problems/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/ramderoy1234/leetcode_problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ramderoy1234/leetcode_problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ramderoy1234/leetcode_problems/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0494-target-sum) |
 ## Binary Search
 |  |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/ramderoy1234/leetcode_problems/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/ramderoy1234/leetcode_problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ramderoy1234/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/ramderoy1234/leetcode_problems/tree/master/0542-01-matrix) |
