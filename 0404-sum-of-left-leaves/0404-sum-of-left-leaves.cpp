@@ -4,10 +4,9 @@ public:
     int sumOfLeftLeaves(TreeNode* root) {
         if(root==NULL) return 0;
         int sum=0;
-        if (root->left != nullptr && root->left->left == nullptr && root->left->right == nullptr) {
-            sum += root->left->val; 
+        if(root->left!=nullptr && root->left->left==nullptr && root->left->right==nullptr){
+            sum+=root->left->val;
         }
-        
         sum+=sumOfLeftLeaves(root->left);
         sum+=sumOfLeftLeaves(root->right);
         return sum;
