@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ramderoy1234/leetcode_problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1484-linked-list-in-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/ramderoy1234/leetcode_problems/tree/master/1753-path-with-minimum-effort) |
+| [3386-find-edges-in-shortest-paths](https://github.com/ramderoy1234/leetcode_problems/tree/master/3386-find-edges-in-shortest-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ramderoy1234/leetcode_problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1484-linked-list-in-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/ramderoy1234/leetcode_problems/tree/master/1753-path-with-minimum-effort) |
+| [3386-find-edges-in-shortest-paths](https://github.com/ramderoy1234/leetcode_problems/tree/master/3386-find-edges-in-shortest-paths) |
 ## Union Find
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ramderoy1234/leetcode_problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ramderoy1234/leetcode_problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ramderoy1234/leetcode_problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3386-find-edges-in-shortest-paths](https://github.com/ramderoy1234/leetcode_problems/tree/master/3386-find-edges-in-shortest-paths) |
 ## Greedy
 |  |
 | ------- |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ramderoy1234/leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ramderoy1234/leetcode_problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/ramderoy1234/leetcode_problems/tree/master/1753-path-with-minimum-effort) |
+| [3386-find-edges-in-shortest-paths](https://github.com/ramderoy1234/leetcode_problems/tree/master/3386-find-edges-in-shortest-paths) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -465,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ramderoy1234/leetcode_problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ramderoy1234/leetcode_problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3386-find-edges-in-shortest-paths](https://github.com/ramderoy1234/leetcode_problems/tree/master/3386-find-edges-in-shortest-paths) |
 ## Divide and Conquer
 |  |
 | ------- |
