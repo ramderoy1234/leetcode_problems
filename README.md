@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ramderoy1234/leetcode_problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1484-linked-list-in-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/ramderoy1234/leetcode_problems/tree/master/1753-path-with-minimum-effort) |
 | [3386-find-edges-in-shortest-paths](https://github.com/ramderoy1234/leetcode_problems/tree/master/3386-find-edges-in-shortest-paths) |
 ## Breadth-First Search
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ramderoy1234/leetcode_problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1484-linked-list-in-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/ramderoy1234/leetcode_problems/tree/master/1753-path-with-minimum-effort) |
 | [3386-find-edges-in-shortest-paths](https://github.com/ramderoy1234/leetcode_problems/tree/master/3386-find-edges-in-shortest-paths) |
 ## Union Find
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-deepest-leaves-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/1254-deepest-leaves-sum) |
 | [1484-linked-list-in-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-deepest-leaves-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/1254-deepest-leaves-sum) |
 | [1484-linked-list-in-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -449,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ramderoy1234/leetcode_problems/tree/master/0078-subsets) |
+| [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ramderoy1234/leetcode_problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Bucket Sort
 |  |
