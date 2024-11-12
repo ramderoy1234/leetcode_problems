@@ -1,20 +1,18 @@
 class Solution {
-    const int mod = 1e9 + 7;
-    
+    // const int mod = 1e9 + 7;
     int recursion(vector<int>& nums, int n, int target, vector<vector<int>>& dp) {
         if (n == -1) return target == 0 ? 1 : 0;
         if (dp[n][target] != -1) return dp[n][target];
         
-        int notpick = recursion(nums, n - 1, target, dp) % mod;
+        int notpick = recursion(nums, n - 1, target, dp);
         int pick = 0;
         if (nums[n] <= target) {
-            pick = recursion(nums, n - 1, target - nums[n], dp) % mod;
+            pick = recursion(nums, n - 1, target - nums[n], dp);
         }
-        
-        dp[n][target] = (pick + notpick) % mod;
+    
+        dp[n][target] = (pick + notpick);
         return dp[n][target];
     }
-
 public:
     int findTargetSumWays(vector<int>& nums, int target) {
         int n = nums.size();
