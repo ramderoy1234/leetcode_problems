@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/ramderoy1234/leetcode_problems/tree/master/0130-surrounded-regions) |
+| [0169-majority-element](https://github.com/ramderoy1234/leetcode_problems/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ramderoy1234/leetcode_problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/ramderoy1234/leetcode_problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ramderoy1234/leetcode_problems/tree/master/0198-house-robber) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ramderoy1234/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/ramderoy1234/leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0127-word-ladder](https://github.com/ramderoy1234/leetcode_problems/tree/master/0127-word-ladder) |
+| [0169-majority-element](https://github.com/ramderoy1234/leetcode_problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ramderoy1234/leetcode_problems/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/ramderoy1234/leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ramderoy1234/leetcode_problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/ramderoy1234/leetcode_problems/tree/master/0016-3sum-closest) |
+| [0169-majority-element](https://github.com/ramderoy1234/leetcode_problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ramderoy1234/leetcode_problems/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/ramderoy1234/leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
 | [0721-accounts-merge](https://github.com/ramderoy1234/leetcode_problems/tree/master/0721-accounts-merge) |
@@ -498,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ramderoy1234/leetcode_problems/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/ramderoy1234/leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
 ## Number Theory
 |  |
@@ -539,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ramderoy1234/leetcode_problems/tree/master/0169-majority-element) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ramderoy1234/leetcode_problems/tree/master/0954-maximum-sum-circular-subarray) |
 ## Prefix Sum
 |  |
