@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-minimum-path-cost-in-a-grid](https://github.com/ramderoy1234/leetcode_problems/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ramderoy1234/leetcode_problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/ramderoy1234/leetcode_problems/tree/master/1753-path-with-minimum-effort) |
+| [2486-most-frequent-even-element](https://github.com/ramderoy1234/leetcode_problems/tree/master/2486-most-frequent-even-element) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ramderoy1234/leetcode_problems/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Hash Table
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ramderoy1234/leetcode_problems/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ramderoy1234/leetcode_problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2486-most-frequent-even-element](https://github.com/ramderoy1234/leetcode_problems/tree/master/2486-most-frequent-even-element) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ramderoy1234/leetcode_problems/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/ramderoy1234/leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
+| [2486-most-frequent-even-element](https://github.com/ramderoy1234/leetcode_problems/tree/master/2486-most-frequent-even-element) |
 ## Number Theory
 |  |
 | ------- |
