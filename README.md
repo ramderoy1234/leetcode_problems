@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ramderoy1234/leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/ramderoy1234/leetcode_problems/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/ramderoy1234/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/ramderoy1234/leetcode_problems/tree/master/0078-subsets) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ramderoy1234/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/ramderoy1234/leetcode_problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/ramderoy1234/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/ramderoy1234/leetcode_problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0064-minimum-path-sum) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ramderoy1234/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ramderoy1234/leetcode_problems/tree/master/0169-majority-element) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ramderoy1234/leetcode_problems/tree/master/0954-maximum-sum-circular-subarray) |
 ## Prefix Sum
