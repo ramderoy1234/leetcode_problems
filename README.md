@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ramderoy1234/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/ramderoy1234/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/ramderoy1234/leetcode_problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ramderoy1234/leetcode_problems/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/ramderoy1234/leetcode_problems/tree/master/0120-triangle) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ramderoy1234/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/ramderoy1234/leetcode_problems/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/ramderoy1234/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/ramderoy1234/leetcode_problems/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/ramderoy1234/leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ramderoy1234/leetcode_problems/tree/master/0169-majority-element) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/ramderoy1234/leetcode_problems/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/ramderoy1234/leetcode_problems/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/ramderoy1234/leetcode_problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ramderoy1234/leetcode_problems/tree/master/0200-number-of-islands) |
