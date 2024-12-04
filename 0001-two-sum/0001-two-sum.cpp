@@ -1,14 +1,16 @@
 class Solution {
 public:
-    vector<int> twoSum(vector<int>& nums, int target) {
+    vector<int> twoSum(std::vector<int>& nums, int target) {
       int n=nums.size();
-       for(int i=0;i<n;i++){ 
-          for(int j=i+1;j<n;j++){
-             if(nums[i]+nums[j]==target){
-                return {i,j};
-             }
-          }
-       }
-       return {};
+      unordered_map<int,int>mp;
+      int pre_sum=0;
+      for(int i=0;i<n;i++){
+        int sum=target-nums[i];
+        if(mp.find(sum)!=mp.end()){
+            return {mp[sum],i};
+        }
+        mp[nums[i]]=i;
+      }
+      return {};
     }
 };
