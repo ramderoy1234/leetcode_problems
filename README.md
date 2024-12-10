@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/ramderoy1234/leetcode_problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/ramderoy1234/leetcode_problems/tree/master/1394-minimum-path-cost-in-a-grid) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ramderoy1234/leetcode_problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ramderoy1234/leetcode_problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/ramderoy1234/leetcode_problems/tree/master/1753-path-with-minimum-effort) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ramderoy1234/leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/ramderoy1234/leetcode_problems/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ramderoy1234/leetcode_problems/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ramderoy1234/leetcode_problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ramderoy1234/leetcode_problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1753-path-with-minimum-effort](https://github.com/ramderoy1234/leetcode_problems/tree/master/1753-path-with-minimum-effort) |
 ## Sliding Window
 |  |
