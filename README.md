@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ramderoy1234/leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/ramderoy1234/leetcode_problems/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/ramderoy1234/leetcode_problems/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/ramderoy1234/leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0044-wildcard-matching](https://github.com/ramderoy1234/leetcode_problems/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/ramderoy1234/leetcode_problems/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/ramderoy1234/leetcode_problems/tree/master/0079-word-search) |
@@ -589,4 +590,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/ramderoy1234/leetcode_problems/tree/master/0812-rotate-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ramderoy1234/leetcode_problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
