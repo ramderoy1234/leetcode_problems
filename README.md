@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ramderoy1234/leetcode_problems/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ramderoy1234/leetcode_problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/ramderoy1234/leetcode_problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2486-most-frequent-even-element](https://github.com/ramderoy1234/leetcode_problems/tree/master/2486-most-frequent-even-element) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ramderoy1234/leetcode_problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Depth-First Search
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/ramderoy1234/leetcode_problems/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/ramderoy1234/leetcode_problems/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ramderoy1234/leetcode_problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/ramderoy1234/leetcode_problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ramderoy1234/leetcode_problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ramderoy1234/leetcode_problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Backtracking
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ramderoy1234/leetcode_problems/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/ramderoy1234/leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/ramderoy1234/leetcode_problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2486-most-frequent-even-element](https://github.com/ramderoy1234/leetcode_problems/tree/master/2486-most-frequent-even-element) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ramderoy1234/leetcode_problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Number Theory
