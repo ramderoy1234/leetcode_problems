@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ramderoy1234/leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/ramderoy1234/leetcode_problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ramderoy1234/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ramderoy1234/leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ramderoy1234/leetcode_problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/ramderoy1234/leetcode_problems/tree/master/0312-burst-balloons) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ramderoy1234/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/ramderoy1234/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/ramderoy1234/leetcode_problems/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/ramderoy1234/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/ramderoy1234/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0556-next-greater-element-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ramderoy1234/leetcode_problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ramderoy1234/leetcode_problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/ramderoy1234/leetcode_problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ramderoy1234/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ramderoy1234/leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ramderoy1234/leetcode_problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0755-reach-a-number](https://github.com/ramderoy1234/leetcode_problems/tree/master/0755-reach-a-number) |
@@ -529,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/ramderoy1234/leetcode_problems/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/ramderoy1234/leetcode_problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ramderoy1234/leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ramderoy1234/leetcode_problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Bucket Sort
