@@ -444,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/1484-linked-list-in-binary-tree) |
+| [2196-reverse-nodes-in-even-length-groups](https://github.com/ramderoy1234/leetcode_problems/tree/master/2196-reverse-nodes-in-even-length-groups) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ramderoy1234/leetcode_problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Tree
 |  |
