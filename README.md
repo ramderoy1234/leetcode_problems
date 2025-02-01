@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ramderoy1234/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0556-next-greater-element-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ramderoy1234/leetcode_problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ramderoy1234/leetcode_problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ramderoy1234/leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/ramderoy1234/leetcode_problems/tree/master/2481-strictly-palindromic-number) |
 ## Brainteaser
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/ramderoy1234/leetcode_problems/tree/master/0328-odd-even-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/1484-linked-list-in-binary-tree) |
 | [2196-reverse-nodes-in-even-length-groups](https://github.com/ramderoy1234/leetcode_problems/tree/master/2196-reverse-nodes-in-even-length-groups) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ramderoy1234/leetcode_problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ramderoy1234/leetcode_problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Tree
 |  |
