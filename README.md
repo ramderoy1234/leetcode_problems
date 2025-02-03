@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ramderoy1234/leetcode_problems/tree/master/0268-missing-number) |
 | [0556-next-greater-element-iii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0556-next-greater-element-iii) |
 | [0755-reach-a-number](https://github.com/ramderoy1234/leetcode_problems/tree/master/0755-reach-a-number) |
+| [2050-count-good-numbers](https://github.com/ramderoy1234/leetcode_problems/tree/master/2050-count-good-numbers) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/ramderoy1234/leetcode_problems/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2481-strictly-palindromic-number](https://github.com/ramderoy1234/leetcode_problems/tree/master/2481-strictly-palindromic-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ramderoy1234/leetcode_problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ramderoy1234/leetcode_problems/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/ramderoy1234/leetcode_problems/tree/master/0044-wildcard-matching) |
 | [0234-palindrome-linked-list](https://github.com/ramderoy1234/leetcode_problems/tree/master/0234-palindrome-linked-list) |
+| [2050-count-good-numbers](https://github.com/ramderoy1234/leetcode_problems/tree/master/2050-count-good-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
