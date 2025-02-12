@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ramderoy1234/leetcode_problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0721-accounts-merge](https://github.com/ramderoy1234/leetcode_problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ramderoy1234/leetcode_problems/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/ramderoy1234/leetcode_problems/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/ramderoy1234/leetcode_problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/ramderoy1234/leetcode_problems/tree/master/0792-binary-search) |
 | [0854-making-a-large-island](https://github.com/ramderoy1234/leetcode_problems/tree/master/0854-making-a-large-island) |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ramderoy1234/leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/ramderoy1234/leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ramderoy1234/leetcode_problems/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/ramderoy1234/leetcode_problems/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/ramderoy1234/leetcode_problems/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ramderoy1234/leetcode_problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ramderoy1234/leetcode_problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/ramderoy1234/leetcode_problems/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ramderoy1234/leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ramderoy1234/leetcode_problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Topological Sort
