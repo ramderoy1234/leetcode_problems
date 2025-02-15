@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/ramderoy1234/leetcode_problems/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/ramderoy1234/leetcode_problems/tree/master/1036-rotting-oranges) |
+| [1046-max-consecutive-ones-iii](https://github.com/ramderoy1234/leetcode_problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ramderoy1234/leetcode_problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/ramderoy1234/leetcode_problems/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ramderoy1234/leetcode_problems/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0755-reach-a-number](https://github.com/ramderoy1234/leetcode_problems/tree/master/0755-reach-a-number) |
 | [0792-binary-search](https://github.com/ramderoy1234/leetcode_problems/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ramderoy1234/leetcode_problems/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/ramderoy1234/leetcode_problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ramderoy1234/leetcode_problems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ramderoy1234/leetcode_problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1753-path-with-minimum-effort](https://github.com/ramderoy1234/leetcode_problems/tree/master/1753-path-with-minimum-effort) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ramderoy1234/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0239-sliding-window-maximum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ramderoy1234/leetcode_problems/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1046-max-consecutive-ones-iii](https://github.com/ramderoy1234/leetcode_problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1813-maximum-erasure-value](https://github.com/ramderoy1234/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ramderoy1234/leetcode_problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Rolling Hash
@@ -633,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ramderoy1234/leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ramderoy1234/leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/ramderoy1234/leetcode_problems/tree/master/1046-max-consecutive-ones-iii) |
 | [2358-number-of-ways-to-split-array](https://github.com/ramderoy1234/leetcode_problems/tree/master/2358-number-of-ways-to-split-array) |
 ## String Matching
 |  |
