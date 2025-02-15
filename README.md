@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ramderoy1234/leetcode_problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ramderoy1234/leetcode_problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/ramderoy1234/leetcode_problems/tree/master/1753-path-with-minimum-effort) |
+| [1813-maximum-erasure-value](https://github.com/ramderoy1234/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [2047-find-a-peak-element-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/2047-find-a-peak-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ramderoy1234/leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2358-number-of-ways-to-split-array](https://github.com/ramderoy1234/leetcode_problems/tree/master/2358-number-of-ways-to-split-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ramderoy1234/leetcode_problems/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ramderoy1234/leetcode_problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1813-maximum-erasure-value](https://github.com/ramderoy1234/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ramderoy1234/leetcode_problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2486-most-frequent-even-element](https://github.com/ramderoy1234/leetcode_problems/tree/master/2486-most-frequent-even-element) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ramderoy1234/leetcode_problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ramderoy1234/leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0239-sliding-window-maximum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ramderoy1234/leetcode_problems/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1813-maximum-erasure-value](https://github.com/ramderoy1234/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ramderoy1234/leetcode_problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Rolling Hash
 |  |
