@@ -6,10 +6,10 @@ public:
         vector<int>indegree(numCourses,0);
 
         for(auto it:prerequisites){
-          int u=it[0];
-          int v=it[1];
-          adj[v].push_back(u);
-          indegree[u]++;
+            int u=it[0];
+            int v=it[1];
+            adj[v].push_back(u);
+            indegree[u]++;
         }
         
         queue<int>q;
