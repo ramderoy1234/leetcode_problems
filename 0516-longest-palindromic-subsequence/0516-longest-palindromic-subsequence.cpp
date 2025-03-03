@@ -3,10 +3,10 @@ class Solution {
     if(n==0 || m==0) return 0;
     if(dp[n][m]!=-1) return dp[n][m];
     if(s[n-1]==x[m-1]){
-      dp[n][m]=1+lcs(n-1,m-1,s,x,dp);
+      dp[n][m]=lcs(n-1,m-1,s,x,dp)+1;
     }
     else{
-      dp[n][m]=max( lcs(n-1,m,s,x,dp),lcs(n,m-1,s,x,dp) );
+      dp[n][m]=max( lcs(n-1,m,s,x,dp), lcs(n,m-1,s,x,dp) );
     }
     return dp[n][m];
   }
