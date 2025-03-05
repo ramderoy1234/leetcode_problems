@@ -1,19 +1,19 @@
 class Solution {
-  int recursion(int index,int buy, vector<int>&prices,vector<vector<int>>&dp){
-    if(index>=prices.size()) return 0;
-    if(dp[index][buy]!=-1) return dp[index][buy];
-    int maxi=0;
-    int notpick=recursion(index+1,buy,prices,dp);
-    if(buy){
-      int buy_stock=-prices[index]+recursion(index+1,0,prices,dp);
-      maxi=max(notpick,buy_stock);
+    int recursion(int index,int buy,vector<int>&prices,vector<vector<int>>&dp){
+        if(index>=prices.size()) return 0;
+        if(dp[index][buy]!=-1) return dp[index][buy];
+        int notPick=recursion(index+1,buy,prices,dp);
+        int maxi=INT_MIN;
+        if(buy){
+            int buy_Stock=-prices[index]+recursion(index+1,0,prices,dp);
+            maxi=max(notPick,buy_Stock);
+        }
+        else{
+            int sell=prices[index]+recursion(index+1,1,prices,dp);
+            maxi=max(notPick,sell);
+        }
+        return dp[index][buy]=maxi;
     }
-    else{
-      int sell=prices[index]+recursion(index+1,1,prices,dp);
-      maxi=max(notpick,sell);
-    }
-    return dp[index][buy]=maxi;
-  }
 public:
     int maxProfit(vector<int>& prices) {
         int n=prices.size();
