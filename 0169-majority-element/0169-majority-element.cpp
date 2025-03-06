@@ -6,9 +6,9 @@ public:
         for(auto it:nums){
             if(cnt==0){
                 candi=it;
-                cnt=1;
+                cnt++;
             }
-            else if(it==candi){
+           else if(candi==it){
                 cnt++;
             }
             else{
