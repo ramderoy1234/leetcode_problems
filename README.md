@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/ramderoy1234/leetcode_problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2486-most-frequent-even-element](https://github.com/ramderoy1234/leetcode_problems/tree/master/2486-most-frequent-even-element) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ramderoy1234/leetcode_problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ramderoy1234/leetcode_problems/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ramderoy1234/leetcode_problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2690-house-robber-iv](https://github.com/ramderoy1234/leetcode_problems/tree/master/2690-house-robber-iv) |
 | [2727-number-of-senior-citizens](https://github.com/ramderoy1234/leetcode_problems/tree/master/2727-number-of-senior-citizens) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ramderoy1234/leetcode_problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ramderoy1234/leetcode_problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1894-merge-strings-alternately](https://github.com/ramderoy1234/leetcode_problems/tree/master/1894-merge-strings-alternately) |
+| [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ramderoy1234/leetcode_problems/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ramderoy1234/leetcode_problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2727-number-of-senior-citizens](https://github.com/ramderoy1234/leetcode_problems/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ramderoy1234/leetcode_problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
