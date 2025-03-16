@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ramderoy1234/leetcode_problems/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ramderoy1234/leetcode_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ramderoy1234/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ramderoy1234/leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/ramderoy1234/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/ramderoy1234/leetcode_problems/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/ramderoy1234/leetcode_problems/tree/master/0234-palindrome-linked-list) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/ramderoy1234/leetcode_problems/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/ramderoy1234/leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ramderoy1234/leetcode_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ramderoy1234/leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/ramderoy1234/leetcode_problems/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/ramderoy1234/leetcode_problems/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/ramderoy1234/leetcode_problems/tree/master/0079-word-search) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ramderoy1234/leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/ramderoy1234/leetcode_problems/tree/master/0812-rotate-string) |
 ## Trie
 |  |
