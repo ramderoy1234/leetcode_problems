@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/ramderoy1234/leetcode_problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ramderoy1234/leetcode_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/ramderoy1234/leetcode_problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Math
 |  |
 | ------- |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/ramderoy1234/leetcode_problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/ramderoy1234/leetcode_problems/tree/master/0721-accounts-merge) |
 | [0812-rotate-string](https://github.com/ramderoy1234/leetcode_problems/tree/master/0812-rotate-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/ramderoy1234/leetcode_problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/ramderoy1234/leetcode_problems/tree/master/1078-remove-outermost-parentheses) |
 | [1170-shortest-common-supersequence](https://github.com/ramderoy1234/leetcode_problems/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/ramderoy1234/leetcode_problems/tree/master/1250-longest-common-subsequence) |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ramderoy1234/leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ramderoy1234/leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/ramderoy1234/leetcode_problems/tree/master/0735-asteroid-collision) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/ramderoy1234/leetcode_problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/ramderoy1234/leetcode_problems/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ramderoy1234/leetcode_problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ramderoy1234/leetcode_problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
