@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ramderoy1234/leetcode_problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2690-house-robber-iv](https://github.com/ramderoy1234/leetcode_problems/tree/master/2690-house-robber-iv) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ramderoy1234/leetcode_problems/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ramderoy1234/leetcode_problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/ramderoy1234/leetcode_problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ramderoy1234/leetcode_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ramderoy1234/leetcode_problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ramderoy1234/leetcode_problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Math
 |  |
 | ------- |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ramderoy1234/leetcode_problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/ramderoy1234/leetcode_problems/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ramderoy1234/leetcode_problems/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ramderoy1234/leetcode_problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Memoization
 |  |
 | ------- |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ramderoy1234/leetcode_problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1894-merge-strings-alternately](https://github.com/ramderoy1234/leetcode_problems/tree/master/1894-merge-strings-alternately) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ramderoy1234/leetcode_problems/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ramderoy1234/leetcode_problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ramderoy1234/leetcode_problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Backtracking
 |  |
