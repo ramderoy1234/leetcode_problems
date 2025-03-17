@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/ramderoy1234/leetcode_problems/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/ramderoy1234/leetcode_problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0416-partition-equal-subset-sum) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ramderoy1234/leetcode_problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0463-island-perimeter](https://github.com/ramderoy1234/leetcode_problems/tree/master/0463-island-perimeter) |
 | [0494-target-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/ramderoy1234/leetcode_problems/tree/master/0496-next-greater-element-i) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/ramderoy1234/leetcode_problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ramderoy1234/leetcode_problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0624-maximum-distance-in-arrays](https://github.com/ramderoy1234/leetcode_problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ramderoy1234/leetcode_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ramderoy1234/leetcode_problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ramderoy1234/leetcode_problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ramderoy1234/leetcode_problems/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/ramderoy1234/leetcode_problems/tree/master/0451-sort-characters-by-frequency) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ramderoy1234/leetcode_problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0721-accounts-merge](https://github.com/ramderoy1234/leetcode_problems/tree/master/0721-accounts-merge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1483-rank-teams-by-votes](https://github.com/ramderoy1234/leetcode_problems/tree/master/1483-rank-teams-by-votes) |
