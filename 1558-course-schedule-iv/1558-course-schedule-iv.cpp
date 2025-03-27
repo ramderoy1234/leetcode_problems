@@ -1,42 +1,46 @@
 class Solution {
 public:
     vector<bool> checkIfPrerequisite(int numCourses, vector<vector<int>>& prerequisites, vector<vector<int>>& queries) {
-        vector<vector<int>> adj(numCourses);
-        vector<int> indegree(numCourses, 0);
-
-        for (auto& it : prerequisites) {
-            int a = it[0];
-            int b = it[1];
+        vector<vector<int>>adj(numCourses);
+        vector<int>indegree(numCourses,0);
+        for(auto it:prerequisites){
+            int a=it[0];
+            int b=it[1];
             adj[a].push_back(b);
             indegree[b]++;
         }
-
-        queue<int> q;
-        for (int i = 0; i < numCourses; i++) {
-            if (indegree[i] == 0) {
+        queue<int>q;
+        for(int i=0;i<numCourses;i++){
+            if(indegree[i]==0){
                 q.push(i);
             }
         }
-        vector<unordered_set<int>> prereq(numCourses); // Track prerequisites for each node
 
-        while (!q.empty()) {
-            int node = q.front();
+        unordered_map<int,unordered_set<int>>mp;
+        while(!q.empty()){
+            int node=q.front();
             q.pop();
-            for (int it : adj[node]) {
-                prereq[it].insert(node);
-                prereq[it].insert(prereq[node].begin(), prereq[node].end()); // Merge prerequisites
-                
-                indegree[it]--;
-                if (indegree[it] == 0) {
-                    q.push(it);
+            for(auto nbr:adj[node]){
+                mp[nbr].insert(node);
+                for(auto pre:mp[node]){
+                    mp[nbr].insert(pre);
+                }
+
+                indegree[nbr]--;
+                if(indegree[nbr]==0){
+                    q.push(nbr);
                 }
             }
         }
 
-        vector<bool> res;
-        for (auto& q : queries) {
-            res.push_back(prereq[q[1]].count(q[0]) > 0);
+        vector<bool>result(queries.size(),false);
+        for(int i=0;i<queries.size();i++){
+            int u=queries[i][0];
+            int v=queries[i][1];
+
+           bool reachable = mp[v].count(u); // count means contains 
+            result[i]=reachable;
         }
-        return res;
+        return result;
     }
 };
