@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ramderoy1234/leetcode_problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ramderoy1234/leetcode_problems/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ramderoy1234/leetcode_problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ramderoy1234/leetcode_problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Hash Table
 |  |
 | ------- |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-validate-binary-tree-nodes](https://github.com/ramderoy1234/leetcode_problems/tree/master/1275-validate-binary-tree-nodes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ramderoy1234/leetcode_problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/ramderoy1234/leetcode_problems/tree/master/1753-path-with-minimum-effort) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ramderoy1234/leetcode_problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
 |  |
 | ------- |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ramderoy1234/leetcode_problems/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1558-course-schedule-iv](https://github.com/ramderoy1234/leetcode_problems/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ramderoy1234/leetcode_problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ramderoy1234/leetcode_problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3386-find-edges-in-shortest-paths](https://github.com/ramderoy1234/leetcode_problems/tree/master/3386-find-edges-in-shortest-paths) |
 ## Greedy
 |  |
@@ -647,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ramderoy1234/leetcode_problems/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2594-count-pairs-of-similar-strings](https://github.com/ramderoy1234/leetcode_problems/tree/master/2594-count-pairs-of-similar-strings) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ramderoy1234/leetcode_problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Bucket Sort
 |  |
 | ------- |
