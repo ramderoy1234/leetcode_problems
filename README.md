@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/ramderoy1234/leetcode_problems/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ramderoy1234/leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/ramderoy1234/leetcode_problems/tree/master/0624-maximum-distance-in-arrays) |
+| [0695-max-area-of-island](https://github.com/ramderoy1234/leetcode_problems/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ramderoy1234/leetcode_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ramderoy1234/leetcode_problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0721-accounts-merge](https://github.com/ramderoy1234/leetcode_problems/tree/master/0721-accounts-merge) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ramderoy1234/leetcode_problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0655-print-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/ramderoy1234/leetcode_problems/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/ramderoy1234/leetcode_problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ramderoy1234/leetcode_problems/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/ramderoy1234/leetcode_problems/tree/master/0801-is-graph-bipartite) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ramderoy1234/leetcode_problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0655-print-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/ramderoy1234/leetcode_problems/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/ramderoy1234/leetcode_problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ramderoy1234/leetcode_problems/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/ramderoy1234/leetcode_problems/tree/master/0801-is-graph-bipartite) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ramderoy1234/leetcode_problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ramderoy1234/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ramderoy1234/leetcode_problems/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/ramderoy1234/leetcode_problems/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/ramderoy1234/leetcode_problems/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/ramderoy1234/leetcode_problems/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/ramderoy1234/leetcode_problems/tree/master/0854-making-a-large-island) |
@@ -491,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ramderoy1234/leetcode_problems/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/ramderoy1234/leetcode_problems/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/ramderoy1234/leetcode_problems/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/ramderoy1234/leetcode_problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ramderoy1234/leetcode_problems/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/ramderoy1234/leetcode_problems/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0967-minimum-falling-path-sum) |
