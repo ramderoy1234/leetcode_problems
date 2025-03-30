@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/ramderoy1234/leetcode_problems/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/ramderoy1234/leetcode_problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ramderoy1234/leetcode_problems/tree/master/0733-flood-fill) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/ramderoy1234/leetcode_problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/ramderoy1234/leetcode_problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ramderoy1234/leetcode_problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/ramderoy1234/leetcode_problems/tree/master/0820-find-eventual-safe-states) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/ramderoy1234/leetcode_problems/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/ramderoy1234/leetcode_problems/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ramderoy1234/leetcode_problems/tree/master/0733-flood-fill) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/ramderoy1234/leetcode_problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/ramderoy1234/leetcode_problems/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ramderoy1234/leetcode_problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/ramderoy1234/leetcode_problems/tree/master/0820-find-eventual-safe-states) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/ramderoy1234/leetcode_problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ramderoy1234/leetcode_problems/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1005-univalued-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/1005-univalued-binary-tree) |
@@ -628,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/ramderoy1234/leetcode_problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ramderoy1234/leetcode_problems/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1005-univalued-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/1005-univalued-binary-tree) |
@@ -697,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ramderoy1234/leetcode_problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/ramderoy1234/leetcode_problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Simulation
 |  |
 | ------- |
