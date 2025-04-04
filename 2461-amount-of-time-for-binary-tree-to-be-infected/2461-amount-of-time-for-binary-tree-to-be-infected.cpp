@@ -1,34 +1,37 @@
 
 class Solution {
-  void buildGraph(TreeNode*root,unordered_map<int,vector<int>>&graph){
-     if(!root) return ;
-     if(root->left){
-       graph[root->val].push_back(root->left->val);
-       graph[root->left->val].push_back(root->val);
-       buildGraph(root->left,graph);
-     }
-     if(root->right){
-       graph[root->val].push_back(root->right->val);
-       graph[root->right->val].push_back(root->val);
-       buildGraph(root->right,graph);
-     }
-  }
+    void buildGraph(TreeNode*root,unordered_map<int,vector<int>>&adj){
+        if(!root) return ;
+        if(root->left){
+            adj[root->val].push_back(root->left->val);
+            adj[root->left->val].push_back(root->val);
+            buildGraph(root->left,adj);
+        }
+        if(root->right){
+            adj[root->right->val].push_back(root->val);
+            adj[root->val].push_back(root->right->val);
+            buildGraph(root->right,adj);
+        }
 
-  int dfs(int node,unordered_map<int,vector<int>>&adj,unordered_set<int>&visited){
-     visited.insert(node);
-     int maxTime=0;
-     for(auto it:adj[node]){
-       if(!visited.count(it)){
-         maxTime=max(maxTime,1+dfs(it,adj,visited));
-       }
-     }
-     return maxTime;
-  }
+    }
+    int dfs(int node,unordered_map<int,vector<int>>&adj,unordered_set<int>&visited){
+        visited.insert(node);
+        int maxi=0;
+        for(auto it:adj[node]){
+            if(!visited.count(it)){
+                maxi=max(maxi,1+dfs(it,adj,visited));
+            }
+        }
+        return maxi;
+    }
 public:
     int amountOfTime(TreeNode* root, int start) {
-        unordered_map<int,vector<int>>graph;    // convert tree into graph
-        buildGraph(root,graph);
-        unordered_set<int>visited;          // then traverse graph
-        return dfs(start,graph,visited);
+        unordered_map<int,vector<int>>adj;
+        buildGraph(root,adj);
+
+        unordered_set<int>visited;
+        
+        return dfs(start,adj,visited);
+        
     }
 };
