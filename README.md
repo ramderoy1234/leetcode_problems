@@ -600,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ramderoy1234/leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/ramderoy1234/leetcode_problems/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/ramderoy1234/leetcode_problems/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ramderoy1234/leetcode_problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -649,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ramderoy1234/leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/ramderoy1234/leetcode_problems/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/ramderoy1234/leetcode_problems/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ramderoy1234/leetcode_problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -723,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/ramderoy1234/leetcode_problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/ramderoy1234/leetcode_problems/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/ramderoy1234/leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ramderoy1234/leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/ramderoy1234/leetcode_problems/tree/master/0735-asteroid-collision) |
@@ -735,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0099-recover-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/ramderoy1234/leetcode_problems/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ramderoy1234/leetcode_problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ramderoy1234/leetcode_problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ramderoy1234/leetcode_problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -790,4 +794,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ramderoy1234/leetcode_problems/tree/master/0496-next-greater-element-i) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/ramderoy1234/leetcode_problems/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/ramderoy1234/leetcode_problems/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
