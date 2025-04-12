@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ramderoy1234/leetcode_problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ramderoy1234/leetcode_problems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ramderoy1234/leetcode_problems/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/ramderoy1234/leetcode_problems/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/ramderoy1234/leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0239-sliding-window-maximum) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ramderoy1234/leetcode_problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ramderoy1234/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ramderoy1234/leetcode_problems/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/ramderoy1234/leetcode_problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/ramderoy1234/leetcode_problems/tree/master/0268-missing-number) |
 | [0556-next-greater-element-iii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0556-next-greater-element-iii) |
 | [0755-reach-a-number](https://github.com/ramderoy1234/leetcode_problems/tree/master/0755-reach-a-number) |
@@ -738,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ramderoy1234/leetcode_problems/tree/master/0204-count-primes) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ramderoy1234/leetcode_problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Stack
 |  |
@@ -835,4 +838,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/ramderoy1234/leetcode_problems/tree/master/0937-online-stock-span) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ramderoy1234/leetcode_problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
