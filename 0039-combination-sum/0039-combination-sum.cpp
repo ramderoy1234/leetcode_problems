@@ -1,24 +1,22 @@
 class Solution {
-    void findcom(int i,vector<int>& candidates, int target,vector<vector<int>>&ans,vector<int>&ds){
-        if(i==candidates.size()){
-            if(target==0){
-                ans.push_back(ds);
-            }
-            return ;
-        }
-        if(candidates[i]<=target){
-            ds.push_back(candidates[i]);
-            findcom(i,candidates,target-candidates[i],ans,ds);
-            ds.pop_back();
-        }
-
-        findcom(i+1,candidates,target,ans,ds);
+  void recursion(int i,vector<int>& candidates, int target,vector<int>&curr,vector<vector<int>>&ans){
+    if(i==candidates.size()){
+      if(target==0) ans.push_back(curr);
+      return ;
     }
+
+    if(candidates[i]<=target){
+      curr.push_back(candidates[i]);
+      recursion(i,candidates,target-candidates[i],curr,ans);
+      curr.pop_back();
+    }
+    recursion(i+1,candidates,target,curr,ans);
+  }
 public:
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+        vector<int>curr;
         vector<vector<int>>ans;
-        vector<int>ds;
-        findcom(0,candidates, target,ans,ds);
+        recursion(0,candidates,target,curr,ans);
         return ans;
     }
 };
