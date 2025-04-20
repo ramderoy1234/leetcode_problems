@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/ramderoy1234/leetcode_problems/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/ramderoy1234/leetcode_problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/ramderoy1234/leetcode_problems/tree/master/0792-binary-search) |
+| [0797-rabbits-in-forest](https://github.com/ramderoy1234/leetcode_problems/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/ramderoy1234/leetcode_problems/tree/master/0854-making-a-large-island) |
 | [0907-koko-eating-bananas](https://github.com/ramderoy1234/leetcode_problems/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/ramderoy1234/leetcode_problems/tree/master/0943-sum-of-subarray-minimums) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ramderoy1234/leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ramderoy1234/leetcode_problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/ramderoy1234/leetcode_problems/tree/master/0721-accounts-merge) |
+| [0797-rabbits-in-forest](https://github.com/ramderoy1234/leetcode_problems/tree/master/0797-rabbits-in-forest) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ramderoy1234/leetcode_problems/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0960-minimize-malware-spread](https://github.com/ramderoy1234/leetcode_problems/tree/master/0960-minimize-malware-spread) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ramderoy1234/leetcode_problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0624-maximum-distance-in-arrays](https://github.com/ramderoy1234/leetcode_problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ramderoy1234/leetcode_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0797-rabbits-in-forest](https://github.com/ramderoy1234/leetcode_problems/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ramderoy1234/leetcode_problems/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ramderoy1234/leetcode_problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Math
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ramderoy1234/leetcode_problems/tree/master/0268-missing-number) |
 | [0556-next-greater-element-iii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0556-next-greater-element-iii) |
 | [0755-reach-a-number](https://github.com/ramderoy1234/leetcode_problems/tree/master/0755-reach-a-number) |
+| [0797-rabbits-in-forest](https://github.com/ramderoy1234/leetcode_problems/tree/master/0797-rabbits-in-forest) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ramderoy1234/leetcode_problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [2050-count-good-numbers](https://github.com/ramderoy1234/leetcode_problems/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ramderoy1234/leetcode_problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
