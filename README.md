@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/ramderoy1234/leetcode_problems/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/ramderoy1234/leetcode_problems/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/ramderoy1234/leetcode_problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ramderoy1234/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ramderoy1234/leetcode_problems/tree/master/0056-merge-intervals) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ramderoy1234/leetcode_problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ramderoy1234/leetcode_problems/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/ramderoy1234/leetcode_problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ramderoy1234/leetcode_problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ramderoy1234/leetcode_problems/tree/master/0079-word-search) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/ramderoy1234/leetcode_problems/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/ramderoy1234/leetcode_problems/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/ramderoy1234/leetcode_problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ramderoy1234/leetcode_problems/tree/master/0169-majority-element) |
