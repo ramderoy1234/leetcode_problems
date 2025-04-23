@@ -1,22 +1,27 @@
 class Solution {
-    void recursion(int i, vector<vector<int>>& ans, vector<int>& nums) {
-        if (i == nums.size()) {
-            ans.push_back(nums);
-            return;
+    void recursion(vector<int>&nums,vector<int>&curr,vector<vector<int>>&ans,vector<bool>visited) {
+        if(curr.size()==nums.size()){
+          ans.push_back(curr);
+          return ;
         }
-        for (int j = i; j < nums.size(); j++) {
-            swap(nums[i], nums[j]);
-            recursion(i + 1, ans, nums);
-            swap(nums[i], nums[j]);
+        for(int i=0;i<nums.size();i++){
+          if(visited[i]) continue;
+          if(i>0 && nums[i]==nums[i-1] && !visited[i-1]) continue;
+          visited[i]=true;
+          curr.push_back(nums[i]);
+          recursion(nums,curr,ans,visited);
+          curr.pop_back();
+          visited[i]=false;
         }
     }
 
 public:
     vector<vector<int>> permuteUnique(vector<int>& nums) {
-        vector<vector<int>> ans;
-        recursion(0, ans, nums);
-        sort(ans.begin(), ans.end());  // Sort before removing duplicates
-        ans.erase(unique(ans.begin(), ans.end()), ans.end());
+        sort(nums.begin(), nums.end());  // Important to group duplicates
+        vector<vector<int>>ans;
+        vector<int> curr;
+        vector<bool>visited(nums.size(), false);
+        recursion(nums,curr,ans,visited);
         return ans;
     }
 };
