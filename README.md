@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ramderoy1234/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/ramderoy1234/leetcode_problems/tree/master/0072-edit-distance) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ramderoy1234/leetcode_problems/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/ramderoy1234/leetcode_problems/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/ramderoy1234/leetcode_problems/tree/master/0115-distinct-subsequences) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ramderoy1234/leetcode_problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ramderoy1234/leetcode_problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/ramderoy1234/leetcode_problems/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0494-target-sum) |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ramderoy1234/leetcode_problems/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0099-recover-binary-search-tree) |
@@ -675,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ramderoy1234/leetcode_problems/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0099-recover-binary-search-tree) |
@@ -782,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ramderoy1234/leetcode_problems/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0099-recover-binary-search-tree) |
