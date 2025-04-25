@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ramderoy1234/leetcode_problems/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/ramderoy1234/leetcode_problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ramderoy1234/leetcode_problems/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/ramderoy1234/leetcode_problems/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/ramderoy1234/leetcode_problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ramderoy1234/leetcode_problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/ramderoy1234/leetcode_problems/tree/master/0268-missing-number) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ramderoy1234/leetcode_problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ramderoy1234/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/ramderoy1234/leetcode_problems/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/ramderoy1234/leetcode_problems/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/ramderoy1234/leetcode_problems/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/ramderoy1234/leetcode_problems/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/ramderoy1234/leetcode_problems/tree/master/0120-triangle) |
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/ramderoy1234/leetcode_problems/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0100-same-tree) |
@@ -672,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/ramderoy1234/leetcode_problems/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0100-same-tree) |
@@ -778,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/ramderoy1234/leetcode_problems/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/ramderoy1234/leetcode_problems/tree/master/0173-binary-search-tree-iterator) |
