@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ramderoy1234/leetcode_problems/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2690-house-robber-iv](https://github.com/ramderoy1234/leetcode_problems/tree/master/2690-house-robber-iv) |
 | [2727-number-of-senior-citizens](https://github.com/ramderoy1234/leetcode_problems/tree/master/2727-number-of-senior-citizens) |
+| [2915-count-of-interesting-subarrays](https://github.com/ramderoy1234/leetcode_problems/tree/master/2915-count-of-interesting-subarrays) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ramderoy1234/leetcode_problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ramderoy1234/leetcode_problems/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ramderoy1234/leetcode_problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-most-frequent-even-element](https://github.com/ramderoy1234/leetcode_problems/tree/master/2486-most-frequent-even-element) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ramderoy1234/leetcode_problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2594-count-pairs-of-similar-strings](https://github.com/ramderoy1234/leetcode_problems/tree/master/2594-count-pairs-of-similar-strings) |
+| [2915-count-of-interesting-subarrays](https://github.com/ramderoy1234/leetcode_problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ramderoy1234/leetcode_problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Depth-First Search
 |  |
@@ -824,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/ramderoy1234/leetcode_problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ramderoy1234/leetcode_problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [2358-number-of-ways-to-split-array](https://github.com/ramderoy1234/leetcode_problems/tree/master/2358-number-of-ways-to-split-array) |
+| [2915-count-of-interesting-subarrays](https://github.com/ramderoy1234/leetcode_problems/tree/master/2915-count-of-interesting-subarrays) |
 ## String Matching
 |  |
 | ------- |
