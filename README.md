@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ramderoy1234/leetcode_problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ramderoy1234/leetcode_problems/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ramderoy1234/leetcode_problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ramderoy1234/leetcode_problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ramderoy1234/leetcode_problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Hash Table
 |  |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ramderoy1234/leetcode_problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/ramderoy1234/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ramderoy1234/leetcode_problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ramderoy1234/leetcode_problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ramderoy1234/leetcode_problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Rolling Hash
 |  |
