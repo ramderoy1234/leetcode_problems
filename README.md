@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1224-minimum-falling-path-sum-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ramderoy1234/leetcode_problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/ramderoy1234/leetcode_problems/tree/master/1394-minimum-path-cost-in-a-grid) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ramderoy1234/leetcode_problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1483-rank-teams-by-votes](https://github.com/ramderoy1234/leetcode_problems/tree/master/1483-rank-teams-by-votes) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ramderoy1234/leetcode_problems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/ramderoy1234/leetcode_problems/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0755-reach-a-number](https://github.com/ramderoy1234/leetcode_problems/tree/master/0755-reach-a-number) |
 | [0797-rabbits-in-forest](https://github.com/ramderoy1234/leetcode_problems/tree/master/0797-rabbits-in-forest) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ramderoy1234/leetcode_problems/tree/master/1370-count-number-of-nice-subarrays) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ramderoy1234/leetcode_problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2050-count-good-numbers](https://github.com/ramderoy1234/leetcode_problems/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ramderoy1234/leetcode_problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/ramderoy1234/leetcode_problems/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
