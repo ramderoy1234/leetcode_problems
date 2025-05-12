@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/2047-find-a-peak-element-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ramderoy1234/leetcode_problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ramderoy1234/leetcode_problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2215-finding-3-digit-even-numbers](https://github.com/ramderoy1234/leetcode_problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ramderoy1234/leetcode_problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2358-number-of-ways-to-split-array](https://github.com/ramderoy1234/leetcode_problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2486-most-frequent-even-element](https://github.com/ramderoy1234/leetcode_problems/tree/master/2486-most-frequent-even-element) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-rank-teams-by-votes](https://github.com/ramderoy1234/leetcode_problems/tree/master/1483-rank-teams-by-votes) |
 | [1813-maximum-erasure-value](https://github.com/ramderoy1234/leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ramderoy1234/leetcode_problems/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2215-finding-3-digit-even-numbers](https://github.com/ramderoy1234/leetcode_problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ramderoy1234/leetcode_problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2486-most-frequent-even-element](https://github.com/ramderoy1234/leetcode_problems/tree/master/2486-most-frequent-even-element) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ramderoy1234/leetcode_problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ramderoy1234/leetcode_problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ramderoy1234/leetcode_problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ramderoy1234/leetcode_problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2215-finding-3-digit-even-numbers](https://github.com/ramderoy1234/leetcode_problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Linked List
 |  |
@@ -885,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ramderoy1234/leetcode_problems/tree/master/0204-count-primes) |
+| [2215-finding-3-digit-even-numbers](https://github.com/ramderoy1234/leetcode_problems/tree/master/2215-finding-3-digit-even-numbers) |
 ## Merge Sort
 |  |
 | ------- |
