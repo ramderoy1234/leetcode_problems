@@ -1,20 +1,26 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        int cnt=0;
+        int n=nums.size();
         int candi=0;
-        for(auto it:nums){
-            if(cnt==0){
-                candi=it;
-                cnt++;
-            }
-           else if(candi==it){
-                cnt++;
-            }
-            else{
-                cnt--;
-            }
+        int cnt=0;
+        for(auto num:nums){
+          if(cnt==0){
+            candi=num;
+            cnt=1;
+          }
+          else if(num==candi){
+            cnt++;
+          }
+          else{
+            cnt--;
+          }
         }
-        return candi;
+        cnt=0;
+        for(auto num:nums){
+          if(candi==num) cnt++;
+        }
+        if(cnt > n/2) return candi;
+        else return -1;
     }
 };
