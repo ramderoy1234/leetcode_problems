@@ -2,7 +2,7 @@ class Solution {
 public:
     int minDays(vector<int>& bloomDay, int m, int k) {
         int s=0;
-        int e=1e9;
+        int e=*max_element(bloomDay.begin(),bloomDay.end());
         int ans=-1;
         while(s<=e){
             int mid=(s+e)/2;
