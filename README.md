@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ramderoy1234/leetcode_problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ramderoy1234/leetcode_problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ramderoy1234/leetcode_problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ramderoy1234/leetcode_problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |
