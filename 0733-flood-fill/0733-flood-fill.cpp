@@ -5,6 +5,7 @@ public:
         int m=image[0].size();
         queue<pair<int,int>>q; // row col
         int initialColor=image[sr][sc];
+        // If the initial color is already the target color, return the image as is
         if(initialColor==color) return image;
 
         image[sr][sc]=color;
