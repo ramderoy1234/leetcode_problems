@@ -516,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/ramderoy1234/leetcode_problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ramderoy1234/leetcode_problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ramderoy1234/leetcode_problems/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3617-find-the-original-typed-string-i](https://github.com/ramderoy1234/leetcode_problems/tree/master/3617-find-the-original-typed-string-i) |
 ## Backtracking
 |  |
 | ------- |
