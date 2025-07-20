@@ -1,20 +1,17 @@
 class Solution {
-    void recursion(int n, vector<int>&nums,vector<int>&curr,vector<vector<int>>&ans){
-        if(n==0){
-            return ans.push_back(curr);
-        } 
-
-        recursion(n-1,nums,curr,ans);
-        curr.push_back(nums[n-1]);
-        recursion(n-1,nums,curr,ans);
-        curr.pop_back();
-    }
 public:
     vector<vector<int>> subsets(vector<int>& nums) {
-        int n=nums.size();
-        vector<int>curr;
         vector<vector<int>>ans;
-        recursion(n,nums,curr,ans);
+        int n=nums.size();
+        for(int i=0;i<(1<<n);i++){
+          vector<int>level;
+          for(int j=0;j<n;j++){
+            if(i&(1<<j)){
+              level.push_back(nums[j]);
+            }
+          }
+          ans.push_back(level);
+        }
         return ans;
     }
 };
