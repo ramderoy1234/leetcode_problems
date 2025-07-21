@@ -939,4 +939,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ramderoy1234/leetcode_problems/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/ramderoy1234/leetcode_problems/tree/master/0148-sort-list) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/ramderoy1234/leetcode_problems/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
