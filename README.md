@@ -942,5 +942,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/ramderoy1234/leetcode_problems/tree/master/0197-rising-temperature) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ramderoy1234/leetcode_problems/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
