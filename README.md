@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ramderoy1234/leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ramderoy1234/leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/ramderoy1234/leetcode_problems/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ramderoy1234/leetcode_problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ramderoy1234/leetcode_problems/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0208-implement-trie-prefix-tree) |
@@ -672,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/ramderoy1234/leetcode_problems/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/ramderoy1234/leetcode_problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ramderoy1234/leetcode_problems/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/ramderoy1234/leetcode_problems/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/ramderoy1234/leetcode_problems/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/ramderoy1234/leetcode_problems/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ramderoy1234/leetcode_problems/tree/master/0328-odd-even-linked-list) |
@@ -918,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ramderoy1234/leetcode_problems/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/ramderoy1234/leetcode_problems/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/ramderoy1234/leetcode_problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0937-online-stock-span](https://github.com/ramderoy1234/leetcode_problems/tree/master/0937-online-stock-span) |
@@ -944,4 +947,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0197-rising-temperature](https://github.com/ramderoy1234/leetcode_problems/tree/master/0197-rising-temperature) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ramderoy1234/leetcode_problems/tree/master/1908-recyclable-and-low-fat-products) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ramderoy1234/leetcode_problems/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
