@@ -1,5 +1,5 @@
 class Solution {
-  void dfs(int node,vector<vector<int>>&adj,vector<int>&visited){
+  void dfs(int node,vector<vector<int>>&adj, vector<int>&visited){
     visited[node]=1;
     for(auto it:adj[node]){
       if(!visited[it]){
@@ -30,3 +30,14 @@ public:
         return cnt;
     }
 };
+
+
+
+
+
+
+
+
+
+
+
