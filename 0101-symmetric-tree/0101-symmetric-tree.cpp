@@ -1,12 +1,13 @@
 
 class Solution {
-  bool solve(TreeNode*leftNode,TreeNode*rightNode){
-     if(!leftNode && !rightNode) return true;
-     if(!leftNode || !rightNode) return false;
-     return (leftNode->val==rightNode->val)&& solve(leftNode->left,rightNode->right)&&solve(leftNode->right,rightNode->left);
-  }
+    bool dfs(TreeNode*leftNode,TreeNode*rightNode){
+        if(leftNode==nullptr && rightNode==nullptr) return true;
+        if(leftNode!=nullptr && rightNode==nullptr) return false;
+        if(leftNode==nullptr && rightNode!=nullptr) return false;
+        return (leftNode->val==rightNode->val)&& dfs(leftNode->left,rightNode->right)&& dfs(leftNode->right,rightNode->left);
+    }
 public:
     bool isSymmetric(TreeNode* root) {
-        return solve(root->left,root->right);
+        return dfs(root->left,root->right);
     }
 };
